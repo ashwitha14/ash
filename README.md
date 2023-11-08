@@ -8,4 +8,4 @@ example repo
 ``` python
 print("Hello World")
 ```
-Hi!
+mini!
